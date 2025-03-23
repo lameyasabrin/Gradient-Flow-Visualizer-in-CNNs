@@ -25,4 +25,4 @@ This repository demonstrates how to visualize **gradient flow** across layers of
 
 ```bash
 git clone https://github.com/your-username/gradient-flow-visualizer.git
-cd gradient-flow-visualizer
+python gradient_flow_visualizer.py
