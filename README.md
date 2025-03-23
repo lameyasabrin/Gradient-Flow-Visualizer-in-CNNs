@@ -16,3 +16,13 @@ This repository demonstrates how to visualize **gradient flow** across layers of
 
 ## 📁 Project Structure
 
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/your-username/gradient-flow-visualizer.git
+cd gradient-flow-visualizer
